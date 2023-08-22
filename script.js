@@ -3,6 +3,6 @@ function decimalToBinary(num) {
 	num.toString(2);
   console.log(num);
 }
-decimalToBinary(num);
+// decimalToBinary(num);
 
 window.decimalToBinary = decimalToBinary;
